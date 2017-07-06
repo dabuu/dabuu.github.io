@@ -1,2 +1,3 @@
 name: dabuwang
 markdown: kramdwon
+permalink: /blog/:year/:month/:day/:title
